@@ -1,4 +1,4 @@
-This is a simple [Next.js](https://nextjs.org/) project that I built by following along with a course in order to get familiar with this technology.  It should be a useful tool to help with future projects, especially creating Shopify themes and apps.
+This is a simple [Next.js](https://nextjs.org/) project that I built by following along with a course in order to get familiar with this technology.  It should be a useful tool to help with future projects, especially in creating Shopify themes and apps.
 
 ## Getting Started
 
